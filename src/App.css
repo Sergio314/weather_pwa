@@ -9,7 +9,7 @@ body,
 }
 
 .main-container {
-  background: url("../public/images/4seasons.jpg");
+  background: url("./4seasons.jpg");
   background-size: cover;
   background-position: center;
 }
